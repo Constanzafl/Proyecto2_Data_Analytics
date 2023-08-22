@@ -1,0 +1,21 @@
+ID,Nombre,año_inicio,Pais,Score_confianza,Ranking_sc,Vol_trans_btc_24hs
+binance,Binance,2017.0,Cayman Islands,10.0,1,213925.56418331686
+gdax,Coinbase Exchange,2012.0,United States,10.0,2,33320.9721535822
+bybit_spot,Bybit,2018.0,British Virgin Islands,10.0,3,26983.552437475148
+kraken,Kraken,2011.0,United States,10.0,4,16739.55198383778
+kucoin,KuCoin,2014.0,Seychelles,10.0,5,10122.313786236138
+bitfinex,Bitfinex,2012.0,British Virgin Islands,10.0,6,2729.4638440143935
+binance_us,Binance US,2019.0,United States,10.0,7,299.69667951289864
+okex,OKX,2017.0,Seychelles,9.0,8,20937.906486300526
+huobi,Huobi,2013.0,Seychelles,9.0,9,41167.88783903376
+gate,Gate.io,,Cayman Islands,9.0,10,15227.966066412013
+bitget,Bitget,2018.0,Seychelles,9.0,11,14224.034178562339
+crypto_com,Crypto.com Exchange,2019.0,Malta,9.0,12,5561.367449874055
+gemini,Gemini,2014.0,United States,9.0,13,706.810714462712
+digifinex,DigiFinex,2018.0,Seychelles,8.0,14,29850.364670297935
+coinw,CoinW,2017.0,United Arab Emirates,8.0,15,23934.43644234668
+mxc,MEXC,2018.0,Seychelles,8.0,16,18233.927781846924
+whitebit,WhiteBIT,2018.0,Lithuania,8.0,17,14493.070433002857
+bingx,BingX,2018.0,British Virgin Islands,8.0,18,8332.203669243923
+deepcoin,Deepcoin,2018.0,Seychelles,8.0,19,7590.108058466602
+btse,BTSE,2018.0,British Virgin Islands,8.0,20,10924.3412553193
