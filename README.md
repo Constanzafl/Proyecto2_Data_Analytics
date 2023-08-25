@@ -1,5 +1,7 @@
 # Proyecto2_Data_Analytics Introduccion al Mercado de las Criptomonedas.
 Proyecto n°2 Data Analytics Henry
+<br>
+
 ![descarga](https://github.com/Constanzafl/Proyecto2_Data_Analytics/assets/121994442/12377c7e-3226-47be-8f69-46eca2102ae7)
 
 
