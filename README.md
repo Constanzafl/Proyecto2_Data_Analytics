@@ -1,9 +1,10 @@
 # Proyecto2_Data_Analytics
 Proyecto n°2 Data Analytics Henry
 
-## 🚀 Análisis de Tokens Criptográficos por Capitalización de Mercado 💹
+## 🚀Mercado de las Criptomonedas 💹
 
-¡Bienvenidos a nuestro proyecto de análisis de criptomonedas basado en la capitalización de mercado! En esta iniciativa, emplearemos tecnologías como Python y Streamlit para llevar a cabo un análisis en profundidad de varios tokens criptográficos. Exploraremos las tendencias del mercado, realizaremos cálculos de rendimiento y examinaremos las oportunidades de inversión en el emocionante mundo de las finanzas descentralizadas (DeFi) y las criptomonedas. ¡Vamos a adentrarnos juntos en el panorama financiero del futuro! 🌌
+¡Bienvenidos al proyecto n°2 de Henry, que trata del mercado de las criptomonedas! En este proyecto, elegi 10 monedas teniendo en cuenta la capitalizacion del mercado. 
+Utilice tecnologías como Python para conectarme a la fuente de datos indicada (API CoinGecko) y para realizar un analisis de los datos de 10 criptomonedas elegidas. Exploraremos las tendencias del mercado, realizaremos cálculos de rendimiento y examinaremos las oportunidades de inversión en el emocionante mundo de las finanzas descentralizadas (DeFi) y las criptomonedas. ¡Vamos a adentrarnos juntos en el panorama financiero del futuro! 🌌
 
 <br>
 
@@ -11,7 +12,7 @@ Proyecto n°2 Data Analytics Henry
 
 La elección de la capitalización de mercado como fundamento de este proyecto de análisis de criptomonedas se basa en su papel fundamental en la evaluación y comprensión de la importancia y el valor percibido de cada token dentro del mercado criptográfico.
 
-La capitalización de mercado es un indicador clave que refleja el valor total de una criptomoneda en circulación en función de su precio actual en el mercado. Es calculada multiplicando el precio actual de cada token por su oferta circulante. A través de este enfoque, podemos comprender la valoración relativa de cada token en comparación con otros en el mismo mercado.
+La capitalización de mercado es un indicador clave que refleja el valor total de una criptomoneda en circulación en función de su precio actual. Es calculada multiplicando el precio actual de cada token por su oferta circulante. A través de este enfoque, podemos comprender la valoración relativa de cada token en comparación con otros en el mismo mercado.
 
 Al elegir la capitalización de mercado como criterio para seleccionar tokens para este proyecto, buscamos destacar aquellos tokens que tienen una mayor adopción, liquidez y reconocimiento en el mercado. Los tokens con una capitalización de mercado significativa generalmente han demostrado una base sólida de inversores y un interés sostenido de la comunidad financiera. Esto puede reflejar su utilidad, casos de uso y potencial para el crecimiento a largo plazo.
 
@@ -30,10 +31,13 @@ En este proyecto de análisis de criptomonedas, hemos seleccionado cuidadosament
 * Tether (USDT): Tether es una criptomoneda estable vinculada al dólar estadounidense. Se utiliza como refugio de valor en momentos de volatilidad y facilita el comercio en exchanges al proporcionar estabilidad de precio.
 
 * Binance Coin (BNB): BNB es la moneda nativa de la plataforma de intercambio Binance. Se utiliza para pagar tarifas de transacción en la plataforma y ha ganado popularidad debido a su utilidad y a las ventas de tokens en la plataforma.
+  
 * Ripple (XRP): Ripple se enfoca en facilitar transferencias internacionales de dinero de manera rápida y eficiente. Aunque ha enfrentado desafíos regulatorios, su enfoque en soluciones de pagos globales sigue siendo relevante en la industria.
 
 * USD Coin (USDC): Similar a Tether, USDC es una criptomoneda estable vinculada al dólar estadounidense. Ofrece estabilidad de valor y es ampliamente utilizado en exchanges y aplicaciones financieras.
+
 * Lido Staked Ether (STETH): STETH es una forma de participar en Ethereum 2.0, una actualización de Ethereum para mejorar su escalabilidad y eficiencia. Los poseedores de STETH obtienen recompensas por validar transacciones en la red Ethereum.
+  
 * Cardano (ADA): Cardano se centra en la investigación científica y el desarrollo de soluciones blockchain escalables y sostenibles. Ofrece un enfoque único en la gobernanza y la investigación académica.
 * Dogecoin (DOGE): Dogecoin comenzó como una broma, pero ha ganado una comunidad activa. Aunque tiene un enfoque menos serio, ha ganado popularidad y atención en los medios.
 
@@ -45,7 +49,8 @@ Estos tokens son importantes debido a sus diversas características y casos de u
 ## 📂 Estructura de Carpetas 
 
 - **EDA:** Carpeta que contiene notebooks de análisis exploratorio de datos y archivos CSV con datos de diferentes tokens.
-    - ***EDAbnb.ipynb:** Notebook de análisis exploratorio para Binance Coin (BNB).
+    - ***EDA10.ipynb:** Es el notebook qque contiene el análisis inicial de las 10 monedas elegidas.
+    - ***EDAbnb.ipynb:**
     - ***EDAcardano.ipynb:** Notebook de análisis exploratorio para Cardano (ADA).
     - ***EDAdogecoin.ipynb:** Notebook de análisis exploratorio para Dogecoin (DOGE).
     - ***EDAethereum.ipynb:** Notebook de análisis exploratorio para Ethereum (ETH).
