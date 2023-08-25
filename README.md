@@ -98,11 +98,11 @@ Estos tokens son importantes debido a sus diversas características y casos de u
 
 ## 📊 Key Performance Indicators (KPIs) utilizados en el análisis.
 Dentro del analisis de mi proyecto seleccione los siguientes KPI´s que continuo desarrollando y explico con mayor profundidad en el Dashboard del proyecto.
-* Rendimiento histórico: Evaluar cómo una criptomoneda ha funcionado en el pasado, considerando su rendimiento en diferentes marcos temporales.
-* Valores maximos y minimos históricos. 
-* Retorno de la inversión (ROI): es una medida financiera utilizada para evaluar la eficacia de una inversión en un activo. Es un indicador del crecimiento del valor de su inversión durante un determinado periodo de tiempo.
-* Índice de Fuerza Relativa (RSI) y media movil: son indicadores tecnicos utilizados por traders, facilitan la identificación de patrones y señales de venta o compra spot en el actual entorno de mercado, teniendo en cuenta cambios reciente de precio.
-* Volatilidad: medida de la variabilidad en los precios de una criptomoneda en un período de tiempo determinado
+* **Rendimiento histórico**: Evaluar cómo una criptomoneda ha funcionado en el pasado, considerando su rendimiento en diferentes marcos temporales.
+* **Valores maximos y minimos históricos**. 
+* **Retorno de la inversión (ROI)**: es una medida financiera utilizada para evaluar la eficacia de una inversión en un activo. Es un indicador del crecimiento del valor de su inversión durante un determinado periodo de tiempo.
+* **Índice de Fuerza Relativa (RSI) y media movil**: son indicadores tecnicos utilizados por traders, facilitan la identificación de patrones y señales de venta o compra spot en el actual entorno de mercado, teniendo en cuenta cambios reciente de precio.
+* **Volatilidad**: medida de la variabilidad en los precios de una criptomoneda en un período de tiempo determinado
 
 <br>
 
@@ -132,6 +132,9 @@ En este proyecto, hemos utilizado una variedad de recursos y herramientas para l
   
 
 Estos recursos han sido fundamentales para realizar el análisis de datos, generar visualizaciones efectivas y presentar los resultados de manera clara y comprensible. Cada herramienta desempeña un papel esencial en diferentes etapas del proyecto, desde la extracción y transformación de datos hasta la creación de gráficos interactivos en el panel de control.
+<br>
 
+## 🙎🏻‍♀️Autora del proyecto:
+[Constanza Florio](https://www.linkedin.com/in/mar%C3%ADa-constanza-florio-1926b5158/)
 
 
