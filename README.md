@@ -50,7 +50,7 @@ Estos tokens son importantes debido a sus diversas características y casos de u
 
 -  📂**EDA:** Carpeta que contiene notebooks de análisis exploratorio de datos y archivos CSV con datos de diferentes tokens.
     - ***EDA10.ipynb:** Es el notebook que contiene el análisis inicial de las 10 monedas elegidas.
-    - ***EDAbitcoin/EDAbnb/EDAcardano/EDAdogecoin/EDAethereum/EDAlidostaked/EDAsolana/EDAtether/EDAxrp/EDAusd:** Luego hay un notebook por cada token con el analisis exploratorio de cada uno. Ademas tambien en los graficos se encuentran algunos KPI´s de los que seleccione. 
+    - ***EDAbitcoin/EDAbnb/EDAcardano/EDAdogecoin/EDAethereum/EDAlidostaked/EDAsolana/EDAtether/EDAxrp/EDAusd:*** Luego hay un notebook por cada token con el analisis exploratorio de cada uno. Ademas tambien en los graficos se encuentran algunos KPI´s de los que seleccione. 
     ## 📊 Archivos CSV con Datos
     - *** Dentro de la carpeta 'CSVDB' coloque los CSV que cree en cada EDA de cada token. Estos CSV los utilizo en el dashboard del proyecto.
 
