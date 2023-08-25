@@ -50,7 +50,7 @@ Estos tokens son importantes debido a sus diversas características y casos de u
 
 -  📂**EDA:** Carpeta que contiene notebooks de análisis exploratorio de datos y archivos CSV con datos de diferentes tokens.
     - ***EDA10.ipynb:** Es el notebook que contiene el análisis inicial de las 10 monedas elegidas.
-    - ***EDAbitcoin/EDAbnb/EDAcardano/EDAdogecoin/EDAethereum/EDAlidostaked/EDAsolana/EDAtether/EDAxrp/EDAusd: ** Luego hay un notebook por cada token con el analisis exploratorio de cada uno. Ademas tambien en los graficos se encuentran algunos KPI´s de los que seleccione. 
+    - ***EDAbitcoin/EDAbnb/EDAcardano/EDAdogecoin/EDAethereum/EDAlidostaked/EDAsolana/EDAtether/EDAxrp/EDAusd:** Luego hay un notebook por cada token con el analisis exploratorio de cada uno. Ademas tambien en los graficos se encuentran algunos KPI´s de los que seleccione. 
     ## 📊 Archivos CSV con Datos
     - *** Dentro de la carpeta 'CSVDB' coloque los CSV que cree en cada EDA de cada token. Estos CSV los utilizo en el dashboard del proyecto.
 
@@ -88,10 +88,12 @@ Dentro del analisis de mi proyecto seleccione los siguientes KPI´s que continuo
 * Volatilidad: medida de la variabilidad en los precios de una criptomoneda en un período de tiempo determinado
 
 <br>
+
 ## 📊 DASHBOARD
 * El dashboard interactivo del proyecto muestra una introduccion a las 10 criptomonedas elegidas, los KPIS´s y las conclusiones. 
 
 <br>
+
 ### **README.md:** Este archivo que proporciona una descripción detallada del proyecto.
 
 <br>
@@ -102,7 +104,6 @@ En este proyecto, hemos utilizado una variedad de recursos y herramientas para l
 
 - **[Python](https://www.python.org/):** El lenguaje de programación principal utilizado para la manipulación, análisis y visualización de datos.
 
-
 - **[Pandas Documentation](https://pandas.pydata.org/docs/):** Pandas es una biblioteca de Python ampliamente utilizada para el análisis y manipulación de datos tabulares.
 
 - **[Matplotlib Documentation](https://matplotlib.org/stable/contents.html):** Matplotlib es una biblioteca gráfica en 2D para la generación de visualizaciones estáticas, interactivas y animadas en Python.
@@ -110,5 +111,6 @@ En este proyecto, hemos utilizado una variedad de recursos y herramientas para l
 - **[Seaborn Documentation](https://seaborn.pydata.org/documentation.html):** Seaborn es una biblioteca de visualización de datos basada en Matplotlib que proporciona una interfaz de alto nivel para crear gráficos atractivos y informativos.
 
 Estos recursos han sido fundamentales para realizar el análisis de datos, generar visualizaciones efectivas y presentar los resultados de manera clara y comprensible. Cada herramienta desempeña un papel esencial en diferentes etapas del proyecto, desde la extracción y transformación de datos hasta la creación de gráficos interactivos en el panel de control.
+
 
 
