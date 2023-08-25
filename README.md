@@ -1,10 +1,10 @@
 # Proyecto2_Data_Analytics
 Proyecto n°2 Data Analytics Henry
 
-## 🚀Mercado de las Criptomonedas 💹
+## 🚀Introduccion al Mercado de las Criptomonedas 💹
 
-¡Bienvenidos al proyecto n°2 de Henry, que trata del mercado de las criptomonedas! En este proyecto, elegi 10 monedas teniendo en cuenta la capitalizacion del mercado. 
-Utilice tecnologías como Python para conectarme a la fuente de datos indicada (API CoinGecko) y para realizar un analisis de los datos de 10 criptomonedas elegidas. Exploraremos las tendencias del mercado, realizaremos cálculos de rendimiento y examinaremos las oportunidades de inversión en el emocionante mundo de las finanzas descentralizadas (DeFi) y las criptomonedas. ¡Vamos a adentrarnos juntos en el panorama financiero del futuro! 🌌
+¡Bienvenidos al proyecto n°2 de Henry! En este proyecto, se reailzo la seleccion de 10 monedas teniendo en cuenta la capitalizacion del mercado. 
+Utilizando tecnologías como Python se llevo a cabo la conexión a la fuente de datos (API CoinGecko) y se realizo un analisis de los datos de estas 10 criptomonedas elegidas. Exploraremos las tendencias del mercado, realizaremos cálculos de rendimiento y examinaremos las oportunidades de inversión en el emocionante mundo de las finanzas descentralizadas (DeFi) y las criptomonedas. ¡Vamos a adentrarnos juntos en el panorama financiero del futuro! 🌌
 
 <br>
 
@@ -48,65 +48,50 @@ Estos tokens son importantes debido a sus diversas características y casos de u
 
 ## 📂 Estructura de Carpetas 
 
-- **EDA:** Carpeta que contiene notebooks de análisis exploratorio de datos y archivos CSV con datos de diferentes tokens.
-    - ***EDA10.ipynb:** Es el notebook qque contiene el análisis inicial de las 10 monedas elegidas.
-    - ***EDAbnb.ipynb:**
-    - ***EDAcardano.ipynb:** Notebook de análisis exploratorio para Cardano (ADA).
-    - ***EDAdogecoin.ipynb:** Notebook de análisis exploratorio para Dogecoin (DOGE).
-    - ***EDAethereum.ipynb:** Notebook de análisis exploratorio para Ethereum (ETH).
-    - ***EDAlidostacked.ipynb:** Notebook de análisis exploratorio para Lido Staked Ether (STETH).
-    - ***EDAsolana.ipynb:** Notebook de análisis exploratorio para Solana (SOL).
+-  📂**EDA:** Carpeta que contiene notebooks de análisis exploratorio de datos y archivos CSV con datos de diferentes tokens.
+    - ***EDA10.ipynb:** Es el notebook que contiene el análisis inicial de las 10 monedas elegidas.
+    - ***EDAbitcoin/EDAbnb/EDAcardano/EDAdogecoin/EDAethereum/EDAlidostaked/EDAsolana/EDAtether/EDAxrp/EDAusd: ** Luego hay un notebook por cada token con el analisis exploratorio de cada uno. Ademas tambien en los graficos se encuentran algunos KPI´s de los que seleccione. 
     ## 📊 Archivos CSV con Datos
-    
-     Los archivos CSV contienen los datos utilizados en los análisis exploratorios de datos para cada token:
+    - *** Dentro de la carpeta 'CSVDB' coloque los CSV que cree en cada EDA de cada token. Estos CSV los utilizo en el dashboard del proyecto.
 
-    - bitcoinDB.csv
-    - bnbDB.csv
-    - cardanoDB.csv
-    - dogeDB.csv
-    - ethereumDB.csv
-    - lidoDB.csv
-    - solanaDB.csv
-    - tetherDB.csv
-    - usdcoinDB.csv
-    - xrpDB.csv
+<br>
+
+-  📂**ETL:** En esta carpeta estan los archivos en los cuales extraje inicialmente los datos para luego realizar el EDA. 
+  - **10monedas.ipynb:** Notebook de extracción y carga de datos de las 10 criptomonedas seleccionadas.
+  - **api-conexion.ipynb:** Notebook que muestra la conexión a una API para obtener datos.
+  - **categories.ipynb:** Notebook para obtener las categorias de las 10 monedas elegidas.
+  - **exchanges.ipynb:** Notebook para la extracción y transformación de datos de exchanges.
+  - **history.ipynb:** Notebook para el histórico de precios y datos.
+  - **10cripto.csv:** Archivo CSV con los datos de las 10 criptomonedas seleccionadas.
+  - **bitcoin.csv:** Archivo CSV con los datos de Bitcoin (BTC).
+  - **bnb.csv:** Archivo CSV con los datos de Binance Coin (BNB).
+  - **cardano.csv:** Archivo CSV con los datos de Cardano (ADA).
+  - **dogecoin.csv:** Archivo CSV con los datos de Dogecoin (DOGE).
+  - **ethereum.csv:** Archivo CSV con los datos de Ethereum (ETH).
+  - **lidostaked.csv:** Archivo CSV con los datos de Lido Staked Ether (STETH).
+  - **solana.csv:** Archivo CSV con los datos de Solana (SOL).
+  - **tether.csv:** Archivo CSV con los datos de Tether (USDT).
+  - **usdcoin.csv:** Archivo CSV con los datos de USD Coin (USDC).
+  - **xrp.csv:** Archivo CSV con los datos de Ripple (XRP).
+  - **exchange.csv:** Archivo CSV con los datos de exchanges.
+  - **categorias.csv:** Archivo CSV con las categorias de las monedas.
 
 <br>
 
 
-## 🛠️ Extracción, Transformación y Carga (ETL) Carpeta que contiene archivos y notebooks relacionados con la extracción, transformación y carga de datos.
-
-
-- **10monedas.ipynb:** Notebook de extracción y carga de datos de las 10 criptomonedas seleccionadas.
-- **api-conexion.ipynb:** Notebook que muestra la conexión a una API para obtener datos.
-- **categories.ipynb:** Notebook para la categorización de datos.
-- **exchanges.ipynb:** Notebook para la extracción y transformación de datos de exchanges.
-- **history.ipynb:** Notebook para el histórico de precios y datos.
-- **10cripto.csv:** Archivo CSV con los datos de las 10 criptomonedas seleccionadas.
-- **bitcoin.csv:** Archivo CSV con los datos de Bitcoin (BTC).
-- **bnb.csv:** Archivo CSV con los datos de Binance Coin (BNB).
-- **cardano.csv:** Archivo CSV con los datos de Cardano (ADA).
-- **dogecoin.csv:** Archivo CSV con los datos de Dogecoin (DOGE).
-- **ethereum.csv:** Archivo CSV con los datos de Ethereum (ETH).
-- **lidostaked.csv:** Archivo CSV con los datos de Lido Staked Ether (STETH).
-- **solana.csv:** Archivo CSV con los datos de Solana (SOL).
-- **tether.csv:** Archivo CSV con los datos de Tether (USDT).
-- **usdcoin.csv:** Archivo CSV con los datos de USD Coin (USDC).
-- **xrp.csv:** Archivo CSV con los datos de Ripple (XRP).
-- **exchange.csv:** Archivo CSV con los datos de exchanges.
-- **categorias.csv:** Archivo CSV con datos categorizados.
+## 📊 Key Performance Indicators (KPIs) utilizados en el análisis.
+Dentro del analisis de mi proyecto seleccione los siguientes KPI´s que continuo desarrollando y explico con mayor profundidad en el Dashboard del proyecto.
+* Rendimiento histórico: Evaluar cómo una criptomoneda ha funcionado en el pasado, considerando su rendimiento en diferentes marcos temporales.
+* Valores maximos y minimos históricos. 
+* Retorno de la inversión (ROI): es una medida financiera utilizada para evaluar la eficacia de una inversión en un activo. Es un indicador del crecimiento del valor de su inversión durante un determinado periodo de tiempo.
+* Índice de Fuerza Relativa (RSI) y media movil: son indicadores tecnicos utilizados por traders, facilitan la identificación de patrones y señales de venta o compra spot en el actual entorno de mercado, teniendo en cuenta cambios reciente de precio.
+* Volatilidad: medida de la variabilidad en los precios de una criptomoneda en un período de tiempo determinado
 
 <br>
-
-
-## 📊 Key Performance Indicators (KPIs) Carpeta que contiene información sobre los Key Performance Indicators utilizados en el análisis.
-
-
-
-- **KPIS.ipynb:** Notebook que explora y analiza los Key Performance Indicators (KPIs) utilizados en el análisis de las criptomonedas seleccionadas. En este notebook, se generan visualizaciones y se extraen conclusiones basadas en los KPIs calculados.
+## 📊 DASHBOARD
+* El dashboard interactivo del proyecto muestra una introduccion a las 10 criptomonedas elegidas, los KPIS´s y las conclusiones. 
 
 <br>
-
 ### **README.md:** Este archivo que proporciona una descripción detallada del proyecto.
 
 <br>
