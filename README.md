@@ -130,6 +130,7 @@ En este proyecto, hemos utilizado una variedad de recursos y herramientas para l
   
 - **[Binance](https://academy.binance.com/es/articles/5-essential-indicators-used-in-technical-analysis):** Pude encontrar informacion de KPI´s en la pagina de binance academy. 
   
+- **[CoinMarketCap](https://coinmarketcap.com/es):** Tambien la utilice para obterner informacion sobre criptomonedas.   
 
 Estos recursos han sido fundamentales para realizar el análisis de datos, generar visualizaciones efectivas y presentar los resultados de manera clara y comprensible. Cada herramienta desempeña un papel esencial en diferentes etapas del proyecto, desde la extracción y transformación de datos hasta la creación de gráficos interactivos en el panel de control.
 <br>
