@@ -1,9 +1,24 @@
-# Proyecto2_Data_Analytics
+# Proyecto2_Data_Analytics Introduccion al Mercado de las Criptomonedas
 Proyecto n°2 Data Analytics Henry
+![descarga](https://github.com/Constanzafl/Proyecto2_Data_Analytics/assets/121994442/12377c7e-3226-47be-8f69-46eca2102ae7)
+
 
 ## 🚀Introduccion al Mercado de las Criptomonedas 💹
+* Ya desde hace varios años el Mercado de las Criptomonedas esta creciendo. Cada vez más inversores, empresas y entusiastas buscan comprender mejor el comportamiento y la evolución de estos activos digitales. Es importante antes de adentrarse en este mundo, informarse. Uno de los acrónimos clásicos en la cultura cripto es DYOR, o lo que es lo mismo, *Do-Your-Own-Research*. Investiga sobre la moneda, en los canales oficiales, los foros, los perfiles sociales… Investiga, analiza y decide.
+* # Algunas caracteristicas que lo diferencian de los mercados tradicionales:
+* Descentralizacion
+* Volatilidad
+* Funciona 24/7
+* Gran variedad
+* Tecnologia Blockchain
+* Anonimato y transparencia
+* Acceso global
 
-¡Bienvenidos al proyecto n°2 de Henry! En este proyecto, se reailzo la seleccion de 10 monedas teniendo en cuenta la capitalizacion del mercado. 
+<br>
+
+## 🚀 Proyecto de data Analytics de Criptomonedas 💹
+
+En este proyecto, se reailzo la seleccion de 10 monedas teniendo en cuenta la capitalizacion del mercado. 
 Utilizando tecnologías como Python se llevo a cabo la conexión a la fuente de datos (API CoinGecko) y se realizo un analisis de los datos de estas 10 criptomonedas elegidas. Exploraremos las tendencias del mercado, realizaremos cálculos de rendimiento y examinaremos las oportunidades de inversión en el emocionante mundo de las finanzas descentralizadas (DeFi) y las criptomonedas. ¡Vamos a adentrarnos juntos en el panorama financiero del futuro! 🌌
 
 <br>
@@ -109,6 +124,10 @@ En este proyecto, hemos utilizado una variedad de recursos y herramientas para l
 - **[Matplotlib Documentation](https://matplotlib.org/stable/contents.html):** Matplotlib es una biblioteca gráfica en 2D para la generación de visualizaciones estáticas, interactivas y animadas en Python.
 
 - **[Seaborn Documentation](https://seaborn.pydata.org/documentation.html):** Seaborn es una biblioteca de visualización de datos basada en Matplotlib que proporciona una interfaz de alto nivel para crear gráficos atractivos y informativos.
+- **[API coingecko](https://www.coingecko.com/en/api/documentation):** Para conectarnos y extraer los datos de las criptomonedas
+  
+- **[Binance](https://academy.binance.com/es/articles/5-essential-indicators-used-in-technical-analysis):** Pude encontrar informacion de KPI´s en la pagina de binance academy. 
+  
 
 Estos recursos han sido fundamentales para realizar el análisis de datos, generar visualizaciones efectivas y presentar los resultados de manera clara y comprensible. Cada herramienta desempeña un papel esencial en diferentes etapas del proyecto, desde la extracción y transformación de datos hasta la creación de gráficos interactivos en el panel de control.
 
