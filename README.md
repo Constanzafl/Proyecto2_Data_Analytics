@@ -7,7 +7,7 @@ Proyecto n°2 Data Analytics Henry
 
 ## 🚀Introduccion al Mercado de las Criptomonedas 💹
 * Ya desde hace varios años el Mercado de las Criptomonedas esta creciendo. Cada vez más inversores, empresas y entusiastas buscan comprender mejor el comportamiento y la evolución de estos activos digitales. Es importante antes de adentrarse en este mundo, informarse. Uno de los acrónimos clásicos en la cultura cripto es DYOR, o lo que es lo mismo, *Do-Your-Own-Research*. Investiga sobre la moneda, en los canales oficiales, los foros, los perfiles sociales… Investiga, analiza y decide.
-* # Algunas caracteristicas que lo diferencian de los mercados tradicionales:
+* ### Algunas caracteristicas que lo diferencian de los mercados tradicionales:
 * Descentralizacion
 * Volatilidad
 * Funciona 24/7
